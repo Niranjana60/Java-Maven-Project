@@ -5,7 +5,8 @@ Certificate link is https://www.udemy.com/certificate/UC-0c69153c-086d-471c-a566
 
 ## Key Takeaways of this course
 Understanding WebDriver Architecture. 
-Gained a solid foundation in the Selenium WebDriver architecture and its components. 
+Gained a solid foundation in the Selenium WebDriver architecture and its components.
+
 Element Locators: Learned various strategies for locating web elements using ID, name, class, XPath, and CSS selectors.
 Handling Dynamic Elements ,Explored techniques for interacting with dynamic web elements and handling waits effectively. 
 Framework Development Gained insights into creating robust test automation frameworks using TestNG and Maven. 
