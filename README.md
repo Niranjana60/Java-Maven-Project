@@ -1,4 +1,4 @@
-# Java-Maven-Project
+# Java-Maven-Testng-Project
 Java-Maven-Project--Ecommerce-Domain
 This project was done as Live Hands on experience when doing the online udemy course Selenium WebDriver with Java -Basics to Advanced+Frameworks by Rahul shetty from Udemy. 
 Certificate link is https://www.udemy.com/certificate/UC-0c69153c-086d-471c-a566-737b37cf3cdb/
